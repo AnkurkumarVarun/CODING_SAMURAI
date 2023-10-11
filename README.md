@@ -1,2 +1,4 @@
 # CODING_SAMURAI
-A simple To-do liat appliocation in java
+ TASK 1--> A simple To-do liat appliocation in java
+
+TASK 2--> Command Line Calculator using java
